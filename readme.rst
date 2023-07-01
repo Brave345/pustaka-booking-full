@@ -1,3 +1,8 @@
+# Daftar nama kelompok
+- Raju Abdullah (19215308)
+- Ageng Basari (19215169)
+- Muhammad Fauzan Azmi (19215130)
+- Bagas Tri Wibowo (19215341)
 ###################
 What is CodeIgniter
 ###################
